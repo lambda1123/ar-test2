@@ -5,8 +5,8 @@
         <title>ar-test</title>
     </head>
     <body>
-        <a href = "test-obj.usdz" rel = "ar">
-            <img src = "test-obj.png">
+        <a href = "ar-test.usdz" rel = "ar">
+            <img src = "ar-test.png">
         </a>
     </body>
 </html>
