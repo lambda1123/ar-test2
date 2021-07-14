@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang = "ja">
+    <head>
+        <meta charset = "uft-8">
+        <title>ar-test</title>
+    </head>
+    <body>
+        <a href = "test-obj.usdz" rel = "ar">
+            <img src = "test-obj.png">
+        </a>
+    </body>
+</html>
